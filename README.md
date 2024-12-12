@@ -1,0 +1,1 @@
+This is a wuick first project that I wanted to try for high seas, I mainly od robotics and things like that, so there will probably be a lot of bugs in the code> I thought that it would be fun to try pong, but add a lot more randomness to it. When playing solo, the keys to play are W and S. The ball should curve in odd ways, and it is very frusterating.
